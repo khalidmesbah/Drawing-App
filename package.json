@@ -1,0 +1,11 @@
+{
+  "name": "drawing-app",
+  "version": "1.0.0",
+  "description": "a simple drawind app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khalidmesbah",
+  "license": "ISC"
+}
